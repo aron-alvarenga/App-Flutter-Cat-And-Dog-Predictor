@@ -1,4 +1,4 @@
-# catanddogpredictor
+# CatAndDogPredictor
 
 Aplicação mobile Flutter de detecção de gato e cachorro em foto utilizando aprendizado de máquina(Rede Neural Convolucional).
 
